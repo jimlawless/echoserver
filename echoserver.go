@@ -1,4 +1,4 @@
-// Copyright 2018 - by Jim Lawless
+// Copyright 2015, 2018 - by Jim Lawless
 // License: MIT / X11
 // See: https://jiml.us/license2018.htm
 
