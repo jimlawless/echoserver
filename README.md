@@ -1,6 +1,10 @@
 # echoserver
 ## A TCP Echo Server
 
+Please see the related blog post at:
+
+https://jiml.us/posts/goecho/
+
 The only command-line parameter echoserver expects is -p which allows the user to specify the port where the code will listen.
 
 echoserver
