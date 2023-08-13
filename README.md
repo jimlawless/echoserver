@@ -3,7 +3,7 @@
 
 Please see the related blog post at:
 
-https://jiml.us/blog/posts/goecho/
+https://jimlawless.net/blog/posts/goecho/
 
 The only command-line parameter echoserver expects is -p which allows the user to specify the port where the code will listen.
 
